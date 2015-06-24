@@ -13,6 +13,7 @@
 		B340FBC01B3B539700098A68 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B340FBBF1B3B539700098A68 /* Images.xcassets */; };
 		B340FBC31B3B539700098A68 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B340FBC11B3B539700098A68 /* LaunchScreen.xib */; };
 		B340FBCF1B3B539700098A68 /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B340FBCE1B3B539700098A68 /* Cat_YearsTests.swift */; };
+		B340FBD91B3B712B00098A68 /* premologo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B340FBD81B3B712B00098A68 /* premologo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		B340FBC81B3B539700098A68 /* Cat YearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B340FBCD1B3B539700098A68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B340FBCE1B3B539700098A68 /* Cat_YearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsTests.swift; sourceTree = "<group>"; };
+		B340FBD81B3B712B00098A68 /* premologo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = premologo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				B340FBB81B3B539700098A68 /* AppDelegate.swift */,
 				B340FBBA1B3B539700098A68 /* ViewController.swift */,
+				B340FBD81B3B712B00098A68 /* premologo.jpg */,
 				B340FBBC1B3B539700098A68 /* Main.storyboard */,
 				B340FBBF1B3B539700098A68 /* Images.xcassets */,
 				B340FBC11B3B539700098A68 /* LaunchScreen.xib */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B340FBD91B3B712B00098A68 /* premologo.jpg in Resources */,
 				B340FBBE1B3B539700098A68 /* Main.storyboard in Resources */,
 				B340FBC31B3B539700098A68 /* LaunchScreen.xib in Resources */,
 				B340FBC01B3B539700098A68 /* Images.xcassets in Resources */,

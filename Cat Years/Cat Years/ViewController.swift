@@ -10,6 +10,20 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var resultLabel: UILabel!
+   
+    
+    @IBOutlet var age: UITextField!
+    
+    @IBAction func findAge(sender: AnyObject) {
+    
+        println(age.text)
+
+        
+    }
+    
+   
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
