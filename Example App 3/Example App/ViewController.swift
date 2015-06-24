@@ -10,10 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    
     @IBOutlet var myLabel: UILabel!
     
-    @IBAction func pressedButton(sender: AnyObject) {
+   
+    @IBAction func myButton(sender: AnyObject) {
          myLabel.text = "It worked!"
     }
     
@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         
        
         
-        println("This is Here now")
+        println("Hello World!")
         
     }
 

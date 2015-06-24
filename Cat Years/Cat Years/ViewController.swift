@@ -1,30 +1,18 @@
 //
 //  ViewController.swift
-//  Example App
+//  Cat Years
 //
-//  Created by Rob Percival on 15/12/2014.
-//  Copyright (c) 2014 Appfish. All rights reserved.
+//  Created by Sagar Singh on 6/24/15.
+//  Copyright (c) 2015 Money Singh. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
 
-    
-    @IBOutlet var myLabel: UILabel!
-    
-    @IBAction func pressedButton(sender: AnyObject) {
-         myLabel.text = "It worked!"
-    }
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
-       
-        
-        println("This is Here now")
-        
     }
 
     override func didReceiveMemoryWarning() {

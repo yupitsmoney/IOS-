@@ -10,20 +10,22 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    
     @IBOutlet var myLabel: UILabel!
     
-    @IBAction func pressedButton(sender: AnyObject) {
-         myLabel.text = "It worked!"
+    @IBAction func buttonPressed(sender: AnyObject) {
+        
+        myLabel.text = "It worked!"
+        
     }
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-       
         
-        println("This is Here now")
+        
+        println("Hello World!")
         
     }
 
