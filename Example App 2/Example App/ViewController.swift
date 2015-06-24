@@ -10,12 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
     @IBOutlet var myLabel: UILabel!
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        myLabel.text = "It worked!"
+        
+        println("This is Here now")
         
     }
 
