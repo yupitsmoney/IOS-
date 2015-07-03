@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D4A28789-AA77-4AEF-8BB3-0706EE705130</string>
+	<string>D072E7BD-D7E4-43A0-8E52-106E948D3B7C</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Wizard Years</string>
+	<string>playground</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>8EE59F5380683A552E35A12C4D8D4A368D20FDCF</key>
 		<string>https://github.com/yupitsmoney/IOS-.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Wizard Years/Wizard Years.xcodeproj</string>
+	<string>MyPlayground.playground/playground.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>8EE59F5380683A552E35A12C4D8D4A368D20FDCF</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/yupitsmoney/IOS-.git</string>
